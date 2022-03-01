@@ -1,3 +1,7 @@
+# code required to generate figures for the Peach Potato Aphid paper
+
+
+
   # show peach potato aphid correlation between 
   require(ggplot2)
   require(dplyr)
